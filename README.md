@@ -1,3 +1,3 @@
-# Show up
+# João Rocha
 
-This should show up at my frontpage.
+Hi! This is my GitHub front page. Feel free to look around!
