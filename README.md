@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Rocha
+# My GitHub Page
 
 <div align="left">
 
