@@ -4,7 +4,8 @@
 
 <div align="left">
 
-Hi! My name is João Rocha, I'm a young **Computer Science & Engineering Student** @ **Instituto Superior Técnico**, Lisbon, Portugal.  
+Hi! My name is João Rocha, I'm a **Computer Science Master Student** @ **Éocle Polytechnique Féderale Lausanne**, Lausanne, Switzerland.  
+Previously, I completed my Bachelor's in **Computer Science and Engineering** @ **Instituto Superior Técnico**, Lisbon, Portugal.
 For fun, I like to:
 - Watch and practice [**sports**](color:green) with my friends
 - Listen to [**music**](color:orange)
@@ -12,8 +13,6 @@ For fun, I like to:
 - [**Meet new people**](color:blue)
 
 Professionally, I'm very into Math and I love solving problems. The Computer Science areas I'm most into are **Algorithms and Data Structures**.
-
-I like studying Computer Science because it provides me the tools to develop technologies that can help people.
 
 <div align="center">
 
