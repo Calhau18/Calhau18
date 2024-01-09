@@ -4,7 +4,7 @@
 
 <div align="left">
 
-Hi! My name is João Rocha, I'm a **Computer Science Master Student** @ **Éocle Polytechnique Féderale Lausanne**, Lausanne, Switzerland.  
+Hi! My name is João Rocha, I'm a **Computer Science Master Student** @ **École Polytechnique Fédérale Lausanne**, Lausanne, Switzerland.  
 Previously, I completed my Bachelor's in **Computer Science and Engineering** @ **Instituto Superior Técnico**, Lisbon, Portugal.
 For fun, I like to:
 - Watch and practice [**sports**](color:green) with my friends
@@ -12,7 +12,7 @@ For fun, I like to:
 - [**Travel**](color:yellow) and explore the world
 - [**Meet new people**](color:blue)
 
-Professionally, I'm very into Math and I love solving problems. The Computer Science areas I'm most into are **Algorithms and Data Structures**.
+Professionally, I'm very into Math and I love solving problems. My main areas of interest are Algorithms, Combinatorics and Discrete Math.
 
 <div align="center">
 
