@@ -9,12 +9,6 @@ I have a Bachelor's in **Computer Science and Engineering** @ **Instituto Superi
 
 I'm very into Math and I love solving problems. My main areas of interest are Algorithms, Combinatorics, and Discrete Math.
 
-For fun, I like to:
-- Watch and practice [**sports**](color:green) with my friends
-- Listen to [**music**](color:orange)
-- [**Travel**](color:yellow) and explore the world
-- [**Meet new people**](color:blue)
-
 ## GitHub Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Calhau18&theme=dark" alt="Calhau18"/></p>
