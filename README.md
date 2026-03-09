@@ -4,9 +4,9 @@
 
 <div align="left">
 
-Hi! My name is João Rocha..  
+Hi! My name is João Rocha.
 I have a Bachelor's in **Computer Science and Engineering** @ **Instituto Superior Técnico**, Lisbon, Portugal, and a Master's in **Computer Science** @ **École Polytechnique Fédérale Lausanne**, Lausanne, Switzerland.
-I'm very into Math and I love solving problems. My main areas of interest are Algorithms, Combinatorics and Discrete Math.
+I'm very into Math and I love solving problems. My main areas of interest are Algorithms, Combinatorics, and Discrete Math.
 
 For fun, I like to:
 - Watch and practice [**sports**](color:green) with my friends
